@@ -1,5 +1,5 @@
 # macanet
-Página web de servicio de telecomunicaciones.
+Macanet es una empresa dedicada al servicio y contratacion de telecomunicaciones a traves de servicios de internet y telefonia.
 
 ### Lenguajes de desarrollo
 1. HTML
